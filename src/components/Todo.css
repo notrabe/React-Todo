@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+    background:beige;
+}
+
+#completeButton{
+    margin-top:2%;
+}
+
+#deleteButton{
+    margin-left:5%;
+    position: absolute;
+    right:3%;
+}
+
+.todo{
+    padding:1%;
+    margin:1%;
+    border:2px solid black;
+}
